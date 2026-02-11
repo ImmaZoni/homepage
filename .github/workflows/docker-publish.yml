@@ -9,9 +9,7 @@ env:
 jobs:
   build:
     name: Docker Build & Push
-    if: github.repository == 'gethomepage/homepage'
     runs-on: self-hosted
-    needs: [ pre-commit ]
     permissions:
       contents: read
       packages: write
