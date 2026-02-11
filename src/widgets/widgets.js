@@ -150,6 +150,7 @@ import whatsupdocker from "./whatsupdocker/widget";
 import xteve from "./xteve/widget";
 import yourspotify from "./yourspotify/widget";
 import zabbix from "./zabbix/widget";
+import zfs from "./zfs/widget";
 
 const widgets = {
   adguard,
@@ -307,6 +308,7 @@ const widgets = {
   xteve,
   yourspotify,
   zabbix,
+  zfs: zfs
 };
 
 export default widgets;

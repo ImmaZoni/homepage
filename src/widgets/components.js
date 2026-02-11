@@ -158,6 +158,7 @@ const components = {
   xteve: dynamic(() => import("./xteve/component")),
   yourspotify: dynamic(() => import("./yourspotify/component")),
   zabbix: dynamic(() => import("./zabbix/component")),
+  zfs: dynamic(() => import("./zfs/component")),
 };
 
 export default components;

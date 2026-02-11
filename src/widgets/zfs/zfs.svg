@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" height="24" width="24">
+  <g id="storage">
+    <path id="Union" fill="#000000" d="M19 2c1.1046 0 2 0.89543 2 2v16c0 1.1046 -0.8954 2 -2 2H5c-1.10457 0 -2 -0.8954 -2 -2V4c0 -1.10457 0.89543 -2 2 -2zM5 16v4h14v-4zm3 3H6v-2h2zm-3 -5h14v-4H5zm3 -1H6v-2h2zM5 8h14V4H5zm3 -1H6V5h2z" stroke-width="1"></path>
+  </g>
+</svg>
